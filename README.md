@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idntgiveafvckp)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alkhafirizal@gmail.com)
 
-<a href="https://github.com/reyzdev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=560&lines=Web+Developer+%26+UI%2FUX+Designer;Siswa+SMK+TKJ+%E2%80%94+SMKN+2+Magetan;Bikin+web+yang+halus%2C+responsif%2C+enak+dipakai" alt="typing" /></a>
+<a href="https://github.com/reyzdev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=560&lines=Web+Developer+%26+UI%2FUX+Designer;Siswa+SMK+TKJ+%E2%80%94+SMKN+2+Magetan;Bikin+web+yang+halus%2C+responsif%2C+enak+dipakai" alt="typing" /></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=reyzdev&label=Profile%20views&color=1e3a8a&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/reyzdev?label=Followers&style=flat-square&color=1e3a8a)
@@ -79,11 +79,9 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=reyzdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyzdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&text_color=cbd5e1" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=reyzdev&theme=tokyonight&hide_border=true&background=0b1220&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=8b949e" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=reyzdev&theme=tokyonight&hide_border=true&background=0b1220&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=8b949e" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyzdev&theme=tokyo-night&hide_border=true&bg_color=0b1220&color=60a5fa&line=60a5fa&point=ffffff" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=reyzdev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
