@@ -51,9 +51,9 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
   </tr>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/kenzzyxd-bit/portofolio-react">Portofolio v1</a></h4>
-      <p>Versi lama: React + Vite, dashboard admin, komentar lewat Supabase.</p>
-      <code>React</code> <code>Vite</code> <code>Supabase</code>
+      <h4><a href="https://github.com/kenzzyxd-bit/portofolio-showcase">Portofolio (showcase)</a></h4>
+      <p>Website portofolio: Next.js static export, deploy Cloudflare. Source privat.</p>
+      <code>Next.js</code> <code>TypeScript</code> <code>Cloudflare</code>
     </td>
     <td width="50%">
       <h4>Kompetisi & Komunitas</h4>
