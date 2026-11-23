@@ -21,6 +21,11 @@ jobs:
           github_user_name: reyzdev
           # ganti tambah game lain: 'pacman,bomberman,tetris'
           games: 'bomberman'
+      - name: grayscale (monochrome)
+        run: |
+          for f in dist/*.svg; do
+            sed -i '0,/<svg/{s/<svg/<svg style="filter:grayscale(1)"/}' "$f"
+          done
       - name: push svg ke branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:
