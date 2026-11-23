@@ -44,14 +44,14 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code>
     </td>
     <td width="50%">
-      <h4><a href="https://github.com/kenzzyxd-bit/ascii-art-terminal">ASCII Art Terminal</a></h4>
+      <h4><a href="https://github.com/reyzdev/ascii-art-terminal">ASCII Art Terminal</a></h4>
       <p>Gambar, GIF, dan video jadi ASCII art berwarna di terminal.</p>
       <code>Python</code> <code>Pillow</code> <code>ANSI</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/kenzzyxd-bit/portofolio-showcase">Portofolio (showcase)</a></h4>
+      <h4><a href="https://github.com/reyzdev/portofolio-showcase">Portofolio (showcase)</a></h4>
       <p>Website portofolio: Next.js static export, deploy Cloudflare. Source privat.</p>
       <code>Next.js</code> <code>TypeScript</code> <code>Cloudflare</code>
     </td>
@@ -67,8 +67,8 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kenzzyxd-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzzyxd-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&text_color=cbd5e1" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=reyzdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyzdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&text_color=cbd5e1" />
 
 </div>
 
