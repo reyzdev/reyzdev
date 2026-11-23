@@ -112,14 +112,6 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 
 </div>
 
-### Ringkasan Aktivitas
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/reyzdev/reyzdev/main/metrics.svg" />
-
-</div>
-
 ### Kontribusi
 
 <div align="center">
