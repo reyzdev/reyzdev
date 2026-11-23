@@ -44,9 +44,21 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code>
     </td>
     <td width="50%">
-      <h4>Hology 9.0</h4>
-      <p>Desain UI/UX untuk event teknologi FILKOM UB.</p>
-      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code>
+      <h4><a href="https://github.com/kenzzyxd-bit/ascii-art-terminal">ASCII Art Terminal</a></h4>
+      <p>Gambar, GIF, dan video jadi ASCII art berwarna di terminal.</p>
+      <code>Python</code> <code>Pillow</code> <code>ANSI</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/kenzzyxd-bit/portofolio-react">Portofolio v1</a></h4>
+      <p>Versi lama: React + Vite, dashboard admin, komentar lewat Supabase.</p>
+      <code>React</code> <code>Vite</code> <code>Supabase</code>
+    </td>
+    <td width="50%">
+      <h4>Kompetisi & Komunitas</h4>
+      <p>Technology Staff Hology 9.0, pemateri SINAU BARENG DSI, UI/UX Raion Internship.</p>
+      <code>UI/UX</code> <code>Figma</code>
     </td>
   </tr>
 </table>
