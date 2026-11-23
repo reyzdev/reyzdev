@@ -4,6 +4,7 @@
 
 [![Website](https://img.shields.io/badge/reyzdev.my.id-0b1220?style=for-the-badge&logo=googlechrome&logoColor=white)](https://reyzdev.my.id)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idntgiveafvckp)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fvkoffimfine)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alkhafirizal@gmail.com)
 
 <a href="https://github.com/reyzdev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=560&lines=Web+Developer+%26+UI%2FUX+Designer;Siswa+SMK+TKJ+%E2%80%94+SMKN+2+Magetan;Bikin+web+yang+halus%2C+responsif%2C+enak+dipakai" alt="typing" /></a>
@@ -83,6 +84,17 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyzdev&theme=tokyo-night&hide_border=true&bg_color=0b1220&color=60a5fa&line=60a5fa&point=ffffff" />
 
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyzdev&theme=tokyonight&utcOffset=7" />
+
+</div>
+
+### Sorotan Repo
+
+<div align="center">
+
+<a href="https://github.com/reyzdev/ascii-art-terminal"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=ascii-art-terminal&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" /></a>
+<a href="https://github.com/reyzdev/portofolio-showcase"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=portofolio-showcase&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" /></a>
+
 </div>
 
 ### Kontribusi
@@ -99,3 +111,11 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 <div align="center">
   <sub>Magetan, Jawa Timur · Indonesia</sub>
 </div>
+
+<div align="center">
+
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0b1220&height=120&section=footer" width="100%" />
