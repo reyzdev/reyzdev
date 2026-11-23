@@ -7,7 +7,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-161b22?style=for-the-badge&logo=tiktok&logoColor=ffffff)](https://www.tiktok.com/@fvkoffimfine)
 [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:alkhafirizal@gmail.com)
 
-<a href="https://github.com/reyzdev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=E6EDF3&center=true&vCenter=true&width=560&lines=Web+Developer+%26+UI%2FUX+Designer;Siswa+SMK+TKJ+%E2%80%94+SMKN+2+Magetan;Bikin+web+yang+halus%2C+responsif%2C+enak+dipakai" alt="typing" /></a>
+<a href="https://github.com/reyzdev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=E6EDF3&center=true&vCenter=true&width=560&lines=Web+Developer+%26+UI%2FUX+Designer;Siswa+SMK+TKJ+%E2%80%94+SMKN+2+Magetan;Ngoding+web%2C+desain+UI%2C+eksperimen+di+terminal" alt="typing" /></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=reyzdev&label=Profile%20views&color=30363d&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/reyzdev?label=Followers&style=for-the-badge&color=30363d&logo=github&logoColor=white)
