@@ -82,6 +82,8 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 
 <div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/reyzdev/reyzdev/main/profile-3d-contrib/profile-rainbow.svg" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=reyzdev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=a9b1ba&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=reyzdev&hide_border=true&background=0d1117&ring=a9b1ba&fire=e6edf3&currStreakNum=e6edf3&sideNums=c9d1d9&currStreakLabel=a9b1ba&sideLabels=c9d1d9&dates=8b949e&disable_animations=true" />
