@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:60a5fa,100:a78bfa&text=Alkhafi%20Rizal%20Fahri%20Yogama&fontColor=ffffff&fontSize=32&fontAlignY=36&desc=Web%20Developer%20%C2%B7%20UI%2FUX%20Designer&descAlignY=58&descSize=16" width="100%" />
+<img src="https://raw.githubusercontent.com/reyzdev/reyzdev/main/assets/hero.gif" width="100%" alt="hero" />
 
 [![Website](https://img.shields.io/badge/reyzdev.my.id-0d1117?style=for-the-badge&logo=googlechrome&logoColor=60a5fa)](https://reyzdev.my.id)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idntgiveafvckp)
