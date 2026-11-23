@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/reyzdev/reyzdev/main/assets/hero.gif" width="100%" alt="hero" />
 
-[![Website](https://img.shields.io/badge/reyzdev.my.id-161b22?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://reyzdev.my.id)
-[![Instagram](https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/idntgiveafvckp)
-[![TikTok](https://img.shields.io/badge/TikTok-161b22?style=for-the-badge&logo=tiktok&logoColor=ffffff)](https://www.tiktok.com/@fvkoffimfine)
-[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:alkhafirizal@gmail.com)
+[![Website](https://img.shields.io/badge/reyzdev.my.id-0b1220?style=for-the-badge&logo=googlechrome&logoColor=white)](https://reyzdev.my.id)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idntgiveafvckp)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fvkoffimfine)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alkhafirizal@gmail.com)
 
 <a href="https://github.com/reyzdev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=E6EDF3&center=true&vCenter=true&width=560&lines=Web+Developer+%26+UI%2FUX+Designer;Siswa+SMK+TKJ+%E2%80%94+SMKN+2+Magetan;Ngoding+web%2C+desain+UI%2C+eksperimen+di+terminal" alt="typing" /></a>
 
