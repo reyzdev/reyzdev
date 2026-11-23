@@ -69,7 +69,7 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
   </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:60a5fa,100:a78bfa&height=44&text=PENDIDIKAN%20%26%20PENGALAMAN&fontColor=ffffff&fontSize=20&fontAlignY=56" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:60a5fa,100:a78bfa&height=44&text=PENDIDIKAN%20DAN%20PENGALAMAN&fontColor=ffffff&fontSize=20&fontAlignY=56" />
 
 | Jenjang | Sekolah | Tahun |
 |---|---|---|
@@ -91,7 +91,7 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=reyzdev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=cbd5e1&rank_icon=github&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyzdev&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=cbd5e1&langs_count=8" />
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=reyzdev&hide_border=true&background=0d1117&ring=60a5fa&fire=a78bfa&currStreakNum=60a5fa&sideNums=cbd5e1&currStreakLabel=a78bfa&sideLabels=cbd5e1&dates=8b949e" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=reyzdev&hide_border=true&background=0d1117&ring=60a5fa&fire=a78bfa&currStreakNum=60a5fa&sideNums=cbd5e1&currStreakLabel=a78bfa&sideLabels=cbd5e1&dates=8b949e&disable_animations=true" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyzdev&theme=github-compact&hide_border=true&bg_color=0d1117&color=a78bfa&line=60a5fa&point=ffffff" />
 
