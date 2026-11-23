@@ -84,20 +84,13 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
   </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a9b1ba,100:e6edf3&height=44&text=PENDIDIKAN%20DAN%20PENGALAMAN&fontColor=0d1117&fontSize=20&fontAlignY=56" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a9b1ba,100:e6edf3&height=44&text=ROADMAP&fontColor=0d1117&fontSize=22&fontAlignY=56" />
 
-| Jenjang | Sekolah | Tahun |
-|---|---|---|
-| SMK | **SMKN 2 Magetan** — Teknik Komputer &amp; Jaringan | 2024–2027 |
-| SMP | **SMP Negeri 1 Kedunggalar**, Ngawi | 2021–2023 |
-| SD | **SD Negeri Wonorejo 1** | 2015–2020 |
-
-| Peran | Tempat | Tahun |
-|---|---|---|
-| Freelance Web Developer | Remote | 2024–sekarang |
-| Teknisi Lab &amp; Asisten Praktikum | SMKN 2 Magetan | 2024–sekarang |
-| UI/UX Designer | Raion Internship, Malang | 2026 |
-| Network Management | PT Cubiespot Pilar Data Nusantara, Pasuruan | 2023 |
+- [x] **HTML · CSS · JavaScript** — dasar front-end
+- [x] **React.js · Tailwind CSS** — komponen &amp; styling
+- [x] **Next.js** — dipakai di portofolio
+- [x] **UI/UX Design (Figma)** — desain antarmuka
+- [ ] **Node.js &amp; REST API** — sedang mendalami
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a9b1ba,100:e6edf3&height=44&text=STATISTIK&fontColor=0d1117&fontSize=22&fontAlignY=56" />
 
