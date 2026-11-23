@@ -67,11 +67,26 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
     </td>
     <td width="50%">
       <h4>Pengalaman &amp; Komunitas</h4>
-      <p>Pemateri SINAU BARENG DSI, UI/UX Designer Raion Internship, teknisi Lab TKJ.</p>
+      <p>UI/UX Designer Raion Internship, teknisi Lab TKJ, freelance web developer.</p>
       <code>UI/UX</code> <code>Figma</code>
     </td>
   </tr>
 </table>
+
+### Pendidikan &amp; Pengalaman
+
+| Jenjang | Sekolah | Tahun |
+|---|---|---|
+| SMK | **SMKN 2 Magetan** — Teknik Komputer &amp; Jaringan | 2024–2027 |
+| SMP | **SMP Negeri 1 Kedunggalar**, Ngawi | 2021–2023 |
+| SD | **SD Negeri Wonorejo 1** | 2015–2020 |
+
+| Peran | Tempat | Tahun |
+|---|---|---|
+| Freelance Web Developer | Remote | 2024–sekarang |
+| Teknisi Lab &amp; Asisten Praktikum | SMKN 2 Magetan | 2024–sekarang |
+| UI/UX Designer | Raion Internship, Malang | 2026 |
+| Network Management | PT Cubiespot Pilar Data Nusantara, Pasuruan | 2023 |
 
 ### Statistik
 
@@ -94,6 +109,14 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 
 <a href="https://github.com/reyzdev/ascii-art-terminal"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=ascii-art-terminal&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" /></a>
 <a href="https://github.com/reyzdev/portofolio-showcase"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=portofolio-showcase&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" /></a>
+
+</div>
+
+### Ringkasan Aktivitas
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/reyzdev/reyzdev/main/metrics.svg" />
 
 </div>
 
