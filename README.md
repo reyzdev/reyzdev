@@ -28,30 +28,15 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 
 **Core Tech Stacks**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=e6edf3)
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=e6edf3)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=e6edf3)
-![Figma](https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=e6edf3)
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,figma&theme=dark" alt="core" />
 
 **Other Tech Stacks**
 
-![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=e6edf3)
-![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=e6edf3)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=e6edf3)
-![Vite](https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=e6edf3)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=e6edf3)
-![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=e6edf3)
-![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=e6edf3)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=e6edf3)
+<img src="https://skillicons.dev/icons?i=html,css,js,vite,nodejs,php,mysql,python&theme=dark" alt="other" />
 
 **Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=e6edf3)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=e6edf3)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=e6edf3)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-161b22?style=flat-square&logo=cloudflare&logoColor=e6edf3)
-![Postman](https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=e6edf3)
+<img src="https://skillicons.dev/icons?i=vscode,git,github,cloudflare,postman&theme=dark" alt="tools" />
 
 </div>
 
