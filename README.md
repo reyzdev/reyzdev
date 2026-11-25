@@ -43,32 +43,15 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a9b1ba,100:e6edf3&height=44&text=PROYEK&fontColor=0d1117&fontSize=22&fontAlignY=56" />
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://reyzdev.my.id">Portofolio Pribadi</a></h4>
-      <p>Next.js + Tailwind, animasi scroll dan galeri interaktif.</p>
-      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/reyzdev/ascii-art-terminal">ASCII Art Terminal</a></h4>
-      <p>Gambar, GIF, dan video jadi ASCII art berwarna di terminal.</p>
-      <code>Python</code> <code>Pillow</code> <code>ANSI</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/reyzdev/portofolio-showcase">Portofolio (showcase)</a></h4>
-      <p>Website portofolio: Next.js static export, deploy Cloudflare. Source privat.</p>
-      <code>Next.js</code> <code>TypeScript</code> <code>Cloudflare</code>
-    </td>
-    <td width="50%">
-      <h4>Pengalaman &amp; Komunitas</h4>
-      <p>UI/UX Designer Raion Internship, teknisi Lab TKJ, freelance web developer.</p>
-      <code>UI/UX</code> <code>Figma</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/reyzdev/ascii-art-terminal"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=ascii-art-terminal&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=a9b1ba&text_color=c9d1d9" /></a>
+<a href="https://github.com/reyzdev/portofolio-showcase"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=portofolio-showcase&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=a9b1ba&text_color=c9d1d9" /></a>
+
+</div>
+
+- **[Portofolio Pribadi](https://reyzdev.my.id)** — Next.js + Tailwind, animasi scroll, galeri interaktif
+- **Pengalaman &amp; Komunitas** — UI/UX Designer Raion Internship · teknisi Lab TKJ · freelance web developer
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a9b1ba,100:e6edf3&height=44&text=ROADMAP&fontColor=0d1117&fontSize=22&fontAlignY=56" />
 
@@ -89,15 +72,6 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 <img width="100%" src="https://streak-stats.demolab.com/?user=reyzdev&hide_border=true&background=0d1117&ring=a9b1ba&fire=e6edf3&currStreakNum=e6edf3&sideNums=c9d1d9&currStreakLabel=a9b1ba&sideLabels=c9d1d9&dates=8b949e&disable_animations=true" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyzdev&theme=github-compact&hide_border=true&bg_color=0d1117&color=e6edf3&line=a9b1ba&point=ffffff" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a9b1ba,100:e6edf3&height=44&text=SOROTAN%20REPO&fontColor=0d1117&fontSize=22&fontAlignY=56" />
-
-<div align="center">
-
-<a href="https://github.com/reyzdev/ascii-art-terminal"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=ascii-art-terminal&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=a9b1ba&text_color=c9d1d9" /></a>
-<a href="https://github.com/reyzdev/portofolio-showcase"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=portofolio-showcase&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=a9b1ba&text_color=c9d1d9" /></a>
 
 </div>
 
