@@ -45,8 +45,8 @@ Siswa **SMK Negeri 2 Magetan** — jurusan Teknik Komputer dan Jaringan. Fokus m
 
 <div align="center">
 
-<a href="https://github.com/reyzdev/ascii-art-terminal"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=ascii-art-terminal&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=a9b1ba&text_color=c9d1d9" /></a>
-<a href="https://github.com/reyzdev/portofolio-showcase"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=portofolio-showcase&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=a9b1ba&text_color=c9d1d9" /></a>
+<a href="https://github.com/reyzdev/ascii-art-terminal"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=ascii-art-terminal&hide_border=true&bg_color=161b22&title_color=e6edf3&icon_color=a9b1ba&text_color=c9d1d9" /></a>
+<a href="https://github.com/reyzdev/portofolio-showcase"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=reyzdev&repo=portofolio-showcase&hide_border=true&bg_color=161b22&title_color=e6edf3&icon_color=a9b1ba&text_color=c9d1d9" /></a>
 
 </div>
 
